@@ -1,0 +1,66 @@
+
+
+
+
+
+/*
+     FILE ARCHIVED ON 20:51:14 May 20, 2014 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 22:40:53 Sep 30, 2016.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+@charset "utf-8";
+/* CSS Document */
+@font-face{font-family:'Helvetica Neue';src:local("Helvetica Neue Light"),local("HelveticaNeue-Light"),url("/web/20140520205114/http://lorabit.com/fonts/HelveticaNeue-Light.ttf") format("truetype"),url("/web/20140520205114/http://lorabit.com/fonts/HelveticaNeue-Light.woff") format("woff");font-weight:300}@font-face{font-family:'Helvetica Neue';src:local("Helvetica Neue Medium"),local("HelveticaNeue-Medium"),url("/web/20140520205114/http://lorabit.com/fonts/HelveticaNeue-Medium.ttf") format("truetype"),url("/web/20140520205114/http://lorabit.com/fonts/HelveticaNeue-Medium.woff") format("woff");font-weight:500}@font-face{font-family:'Helvetica Neue XP';src:url("/web/20140520205114/http://lorabit.com/fonts/HelveticaNeue-Light.svg") format("svg"),url("/web/20140520205114/http://lorabit.com/fonts/HelveticaNeue-Light.woff") format("woff");font-weight:300}@font-face{font-family:'Helvetica Neue XP';src:url("/web/20140520205114/http://lorabit.com/fonts/HelveticaNeue-Medium.svg") format("svg"),url("/web/20140520205114/http://lorabit.com/fonts/HelveticaNeue-Medium.woff") format("woff");font-weight:500}
+
+
+body{margin:0px;padding:0px; font-family:'Helvetica Neue'; white-space:normal;font-weight:300;}
+a{color:#009afd;}
+.navigation{background:#ddeefb;color:#465d6f; font-size:18px; font-weight:100;padding:10px 0px 10px 0px;border-bottom:1px solid #c4ddf0;}
+.navigation center{margin:auto;width:1000px;text-align:left;}
+.navigation a{margin-right:40px;}
+.summary{border-top:1px solid #f0f9ff;padding:10px;background:#ddeefb;overflow:auto;padding:20px 0 20px 0;}
+.summary  center{margin:auto;width:1000px;text-align:left;}
+#headImg{float:left;}
+#headImg img{width:200px;}
+
+#basicInformation{padding-left:20px;float:left;}
+#name{font-size:24px;height:40px;line-height:40px;}
+.school,.title,.links,.address{height:25px;line-height:25px;color:#465d6f;}
+.links a{margin-right:10px;text-decoration:underline;color:#009afd;}
+
+#contactInformation{float:right;padding-top:40px;}
+
+.mainCenter{width:1000px;margin:auto;padding-top:20px;}
+
+.menu{width:200px;background:#f9f9f9;border-top:1px solid #e5e5e5;border-left:1px solid #e5e5e5;border-right:1px solid #e5e5e5;font-size:15px;color:#333333;float:left;}
+.menu a{height:25px;line-height:25px;display:block;padding:5px;border-bottom:1px solid #e5e5e5;border-top:1px solid #ffffff;color:#333; text-decoration:none;}
+.menu a:hover{background:#FFF;}
+
+.content{float:left;margin-left:20px;width:760px;}
+.section{margin-bottom:20px;clear:both;}
+.sectionTitle{font-size:24px;margin-bottom:20px;}
+.sectionContent{color:#333;}
+ul{margin:0px;padding:0px;}
+#selectedPublications{margin-left:20px;}
+#selectedPublications li{margin-bottom:10px;}
+#selectedPublications li span{display:block;}
+
+.publicationAuthors{color:#777;font-size:15px;}
+.publicationTitle{color:#000;}
+.publicationTitle a{color:#009afd;margin-left:10px;  letter-spacing:1px;}
+.publicationPublisher b{margin-right:10px;font-size:15px;font-weight:500;}
+.publicationPublisher{font-size:15px;}
+
+
+#selectedDemos{}
+#selectedDemos .demo{width:200px;float:left;margin:10px;}
+#selectedDemos .demo span{margin-top:5px;display:block;text-align:center;}
+
+
+#honors{margin-left:20px;}
+#honors li{margin-bottom:10px;}
+
+.copyright{text-align:center;color:#777;}
